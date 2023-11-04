@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANAMIKARAI7803](https://github.com/ANAMIKARAI7803)
 
-- 💬 Ask me about **UI/UX Designing**
+- 💬 Ask me about **UI/UX Designing and FrontEnd Development**
 
 - 📫 How to reach me **anamikarai7803@gmail.com**
 
